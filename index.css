@@ -302,19 +302,24 @@ label{
     padding: 2cm;
 }
 .mage img{
-    width: 500px;
+    width: 700px;
     height: 400px;
+    position: absolute;
+    margin-top: 1cm;
+   
 }
 .othebg{
-    background-color: beige;
+    background-color: #edf2f8;
     width: 50%;
     padding: 1cm;
+   margin-left: 12cm;
+   padding-left: 4cm;
 }
 .aall{
     display: flex;
 }
 .textt{
-    padding-left: 3cm;
+    padding-left: 4cm;
 }
 .p15{
 
@@ -325,4 +330,52 @@ label{
     font-weight: bold;
     font-size: 35px;
 
+}
+.btn0{
+    padding-left: 3cm;
+    margin-top: 1cm;
+}
+.btn0 button{
+
+}
+
+.btn0 button{
+    padding: 0.5em;
+    
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+   background-color: #edf2f8;
+    transform: scaleX(1);
+    
+    
+}
+.btn0 button:hover{
+    background-color: #cdcaca;
+    transform: scale(1.1);
+}
+.mynext{
+    margin-top: 2cm;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.p19{
+    color: #10243c;
+    margin-top: 0.5cm;
+    font-weight: bold;
+    font-size: 20px;
+
+
+}
+.parga img{
+    width: 300px;
+    height: 200px;
+}
+.parga{
+    margin: 2cm;
+}
+.yes{
+    margin-top: 1cm;
 }
