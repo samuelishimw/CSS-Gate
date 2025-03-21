@@ -525,4 +525,44 @@ label{
     font-size: 18px;
     text-decoration: none;
 }
+.footer{
+    margin-top: 0.5cm;
+    display: flex;
+    padding-left: 2em;
+    background-color:#cdcaca;
+    padding: 1em;
+    padding-bottom: 2cm;
+    
+}
+.nav6{
+    padding-left: 10cm;
+    display: flex;
+    margin-top: 0.3cm;
+    
+}
+.nav5 li{
+    list-style: none;
+    display: flex;
+    padding-left: 1cm
+}
+.nav6 li{
+    list-style: none;
+    display: flex;
+    padding-left: 1cm;
+
+}
+.nav5{
+    display: flex;
+    margin-top: 0.3cm;
+}
+
+.nav6 li a{
+    text-decoration: none;
+    color: black;
+}
+.nav5 li a{
+    text-decoration: none;
+    color: black;
+}
+
 
