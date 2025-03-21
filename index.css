@@ -453,12 +453,13 @@ label{
 .anotr{
     margin-top: 2cm;
     margin: 2em;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
 }
 .alsl{
     display: flex;
     margin-top: 2cm;
-    width: 40%;
-    
+   
     
 }
 .tre{
