@@ -374,8 +374,44 @@ label{
     height: 200px;
 }
 .parga{
-    margin: 2cm;
+    margin: 1cm;
 }
 .yes{
     margin-top: 1cm;
 }
+.pho1 img{
+    width: 360px;
+    height: 250px;
+    
+
+}
+
+
+.photto{
+    margin-top: 1cm;
+    padding: 2em;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.allp{
+    padding-left: 2cm;
+}
+.p20{
+    margin-top: 0.5cm;
+}
+.p21{
+    color: #10243c;
+    margin-top: 0.5cm;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.p22{
+    margin-top: 0.5cm;
+
+}
+.all10{
+    margin-left: 5em;
+}
+
+
