@@ -445,5 +445,33 @@ label{
            width: 600px;
           height: 500px;
 }
+.p27{
+    color: #10243c;
+    font-weight: bold;
+    font-size: 40px;
+}
+.anotr{
+    margin-top: 2cm;
+    margin: 2em;
+}
+.alsl{
+    display: flex;
+    margin-top: 2cm;
+    width: 40%;
+    
+    
+}
+.tre{
+    padding-left: 2cm;
+    
+}
+.p29{
+    font-size: 23px;
+    font-weight: bold;
+    color: #10243c;
 
+}
+.p30{
+    font-size: 18px;
+}
 
