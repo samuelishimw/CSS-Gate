@@ -149,3 +149,37 @@ span{
     padding-left: 2.3cm;
     margin-top: 1cm;
 }
+
+.fourth{
+    margin-top: 2cm;
+   
+}
+.fourth img{
+    width: 80%;
+    height: 30%;
+}
+.parg{
+    margin-top: 1cm;
+    padding-left: 2.5cm;
+}
+.prg{
+    padding-right: 1cm;
+}
+.p2{
+    font-weight: bold;
+    font-size: 30px;
+    color: #10243c;
+    margin-top: 0.3cm;
+
+}
+.p4{
+    
+    font-size: 30px;
+    color: #10243c;
+
+}
+
+.allne{
+    display: flex;
+    
+}
