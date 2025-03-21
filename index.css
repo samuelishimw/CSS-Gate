@@ -297,3 +297,32 @@ label{
    color: #e28743;
 
 }
+.net2{
+    
+    padding: 2cm;
+}
+.mage img{
+    width: 500px;
+    height: 400px;
+}
+.othebg{
+    background-color: beige;
+    width: 50%;
+    padding: 1cm;
+}
+.aall{
+    display: flex;
+}
+.textt{
+    padding-left: 3cm;
+}
+.p15{
+
+}
+.p16{
+    color: #10243c;
+    margin-top: 0.5cm;
+    font-weight: bold;
+    font-size: 35px;
+
+}
