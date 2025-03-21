@@ -7,6 +7,7 @@
     background-color:#10243c;
     padding-bottom: 1cm;
     display: flex;
+    position: relative;
     
     
 }
@@ -39,6 +40,7 @@
     
     
 }
+
 .nav li{
     list-style: none;
     padding-left:1cm;
@@ -62,4 +64,38 @@
 }
 .line{
     color: wheat;
+}
+
+
+.nav2 li{
+    list-style: none;
+    padding-left: 1em;
+
+}
+.nav2{
+    display: flex;
+    background-color:white;
+    box-shadow: 3px 3px 3px rgb(243, 242, 242);;
+    
+    width: 50%;
+    align-items: center;
+    position: absolute;
+    top: 90px;
+    right: 3cm;
+
+}
+.nav2 li a{
+    text-decoration: none;
+    color: rgb(84, 82, 82);
+    font-size: 16px;
+
+
+}
+.pic{
+    background-image: url("images/agaf.png");
+    width: 45px;
+    height: 45px;
+    padding-left: 6em;
+    padding: 1em 2em;
+   
 }
