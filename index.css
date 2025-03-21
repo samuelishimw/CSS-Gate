@@ -99,3 +99,26 @@
     padding: 1em 2em;
    
 }
+.par{
+    background-color: #f2f2f2;
+    padding: 2em;
+}
+.par p{
+    padding-top: 1cm;
+}
+#secpar{
+    font-weight: bold;
+    font-size: 40px;
+    color: #10243c;
+
+}
+#secpar img{
+    margin-top: 0.5cm;
+}
+.imagee{
+    background-image: url("images/")
+}
+.btn{
+    padding: 2em;
+
+}
