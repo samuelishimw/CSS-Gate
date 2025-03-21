@@ -194,9 +194,54 @@ span{
 .fifth{
     margin-top: 2cm;
     background-color: #0b233f;
+    
 }
 
 .bgandimg img{
-    width: 45%;
-    height: 50%;
+    width:660px;
+    height: 400px;
+}
+.textall{
+    display: flex;
+}
+
+.texte{
+    padding-left: 2cm;
+    margin-top: 1cm;
+}
+.p8{
+    color: white;
+
+}
+.p9{
+    color: white;
+    margin-top: 0.5cm;
+    font-weight: bold;
+    font-size: 40px;
+}
+.fo img{
+    margin-top: 0.5cm;
+}
+.p10{
+    color: white;
+    margin-top: 1cm;
+    font-size: 20px;
+}
+.btn2 button{
+    background-color: #0b233f;
+    margin-top: 1cm;
+    padding: 0.8em;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    transform: scaleX(1);
+    
+}
+.btn2 button:hover{
+    background-color: rgb(39, 70, 117);
+    transform: scaleX(1.5);
+    transition: 1s;
+}
+.btn2{
+    padding-left: 8cm;
 }
