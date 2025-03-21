@@ -146,8 +146,8 @@ span{
 .pic4 img{
     width: 160%;
     height: 105%;
-    padding-left: 2.3cm;
-    margin-top: 1cm;
+     padding-left: 2cm; 
+    margin-top: 1cm; 
 }
 
 .fourth{
@@ -163,7 +163,8 @@ span{
     padding-left: 2.5cm;
 }
 .prg{
-    padding-right: 1cm;
+   
+    margin-top: 2cm;
 }
 .p2{
     font-weight: bold;
@@ -176,10 +177,26 @@ span{
     
     font-size: 30px;
     color: #10243c;
+    margin-top: 0.5cm;
 
 }
 
 .allne{
     display: flex;
     
+}
+.p3{
+    margin-top: 0.5cm;
+}
+.allp4{
+    margin-top: 2.5cm;
+}
+.fifth{
+    margin-top: 2cm;
+    background-color: #0b233f;
+}
+
+.bgandimg img{
+    width: 45%;
+    height: 50%;
 }
