@@ -245,3 +245,55 @@ span{
 .btn2{
     padding-left: 8cm;
 }
+#ipho{
+    margin-top: 1cm;
+    padding-left: 2cm;
+
+}
+#ipho2{
+    margin-top: 1cm;
+    height: 103%;
+
+}
+.nextnext{
+    margin-top: 3cm;
+}
+.p11{
+    /* color: #10243c; */
+
+}
+.p12{
+    color: #10243c;
+    margin-top: 0.5cm;
+    font-weight: bold;
+    font-size: 40px;
+
+
+}
+.alltextebt{
+    display: flex;
+}
+.btn5{
+    padding-left: 15cm;
+    margin-top: 3cm;
+}
+.btn5 button{
+    padding: 1em;
+    color: #10243c;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: white;
+    transform: scaleX(1);
+    
+    
+}
+.btn5 button:hover{
+    background-color: #ebebeb;
+    transform: scale(1.1);
+}
+label{
+   color: #e28743;
+
+}
